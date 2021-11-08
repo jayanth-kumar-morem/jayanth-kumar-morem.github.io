@@ -14,8 +14,8 @@ const IndexPage = ({ location, data }) => (
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
-      <Skills/>
       <Jobs data={data.jobs.edges} />
+      <Skills/>
       <Featured data={data.featured.edges} />
       <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />
