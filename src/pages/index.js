@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Layout, Hero, About, Jobs, Featured, Projects, Contact, Skills } from '@components';
@@ -10,19 +10,24 @@ const StyledMainContainer = styled(Main)`
   counter-reset: section;
 `;
 ReactGA.initialize(config.googleAnalyticsID);
-const IndexPage = ({ location, data }) => (
-  <Layout location={location}>
-    <StyledMainContainer className="fillHeight">
-      <Hero data={data.hero.edges} />
-      <About data={data.about.edges} />
-      <Jobs data={data.jobs.edges} />
-      <Skills />
-      <Featured data={data.featured.edges} />
-      <Projects data={data.projects.edges} />
-      <Contact data={data.contact.edges} />
-    </StyledMainContainer>
-  </Layout>
-);
+const IndexPage = ({ location, data }) => {
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  });
+  return (
+    <Layout location={location}>
+      <StyledMainContainer className="fillHeight">
+        <Hero data={data.hero.edges} />
+        <About data={data.about.edges} />
+        <Jobs data={data.jobs.edges} />
+        <Skills />
+        <Featured data={data.featured.edges} />
+        <Projects data={data.projects.edges} />
+        <Contact data={data.contact.edges} />
+      </StyledMainContainer>
+    </Layout>
+  );
+};
 
 IndexPage.propTypes = {
   location: PropTypes.object.isRequired,
