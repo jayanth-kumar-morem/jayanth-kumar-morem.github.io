@@ -1,21 +1,22 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact,Skills } from '@components';
+import { Layout, Hero, About, Jobs, Featured, Projects, Contact, Skills } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
-
+import ReactGA from 'react-ga';
+import config from '../config';
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
 `;
-
+ReactGA.initialize(config.googleAnalyticsID);
 const IndexPage = ({ location, data }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
-      <Skills/>
+      <Skills />
       <Featured data={data.featured.edges} />
       <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />

@@ -6,8 +6,8 @@ module.exports = {
     'Jayanth Kumar, Jayanth, JKNani, software engineer, MERN Stack, Data Science, web developer, opencv, hyderabad, TVS Motorcorp, Survey Buddy,IITPKD, NLP',
   siteUrl: 'https://7benson.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-176890289-1',
+  googleVerification: '',
   name: 'Jayanth Kumar',
   location: 'Hyderabad, India',
   email: 'jknani111@gmail.com',
@@ -87,5 +87,5 @@ module.exports = {
     viewFactor: 0.25,
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
   }),
-  deployedUrl:"",
+  deployedUrl: '',
 };
