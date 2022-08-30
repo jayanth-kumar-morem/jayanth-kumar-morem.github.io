@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: '',
   name: 'Jayanth Kumar',
   location: 'Hyderabad, India',
-  email: 'jknani111@gmail.com',
+  email: 'jayanthkumar1903@gmail.com',
   github: 'https://github.com/7benson',
   twitterHandle: '@asd',
   socialMedia: [
@@ -21,15 +21,16 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/jayanth-kumar-14a4811b5/',
-    },
+    }
+    // ,
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/chandrikadeb7',
     // },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/mr_jknani/',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/mr_jknani/',
+    // },
     // {
     //   name: 'Twitter',
     //   url: 'https://twitter.com/chandrikadeb7',

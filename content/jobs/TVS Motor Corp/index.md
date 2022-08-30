@@ -1,6 +1,6 @@
 ---
 date: 'Aug 2020'
-title: 'Full Stack Developer'
+title: 'Full Stack Developer Intern'
 company: 'TVS Motor Corp'
 location: 'Hosur, Tamil Nadu'
 range: 'Aug 2020 to Nov 2020'

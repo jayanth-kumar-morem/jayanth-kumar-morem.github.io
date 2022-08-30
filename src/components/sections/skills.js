@@ -156,9 +156,9 @@ const Skills = () => {
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
   const skills = [
     {
-      name:"MERN & Django Development",
+      name:"web Development",
       percentage:"95",
-      data:"Skills : MERN Stack, SQL, Django, SCSS, Flask, Bootstrap, Semantic UI, Material UI, UI Design, Sockets, AWS, FIrebase, Firestore, Amazon S3, Heroku and eager to learn more.",
+      data:"Skills : MERN Stack, Spring Boot, Thymeleaf, SQL, Django, SCSS, Flask, Bootstrap, Semantic UI, Material UI, UI Design, Sockets, AWS, FIrebase, Firestore, Amazon S3, Heroku and eager to learn more.",
     },{
       name:"Deep Learning with Image Processing",
       percentage:"93",

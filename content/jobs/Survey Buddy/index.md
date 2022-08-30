@@ -1,6 +1,6 @@
 ---
 date: 'Jan 2021'
-title: 'Frontend Developer'
+title: 'Frontend Developer Intern'
 company: 'Survey Buddy'
 location: 'Virtual'
 range: 'Jan 2021 to Mar 2021'
