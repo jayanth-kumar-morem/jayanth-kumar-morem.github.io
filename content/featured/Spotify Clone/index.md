@@ -2,7 +2,7 @@
 date: '2'
 title: 'Spotify Clone'
 cover: './1.PNG'
-github: 'https://github.com/7benson/Spotify-Clone'
+github: 'https://github.com/jayanth-kumar-morem/Spotify-Clone'
 external: 'https://spotify-by-jayanth.web.app/'
 tech:
   - Spotify API

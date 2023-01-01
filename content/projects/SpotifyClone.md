@@ -1,7 +1,7 @@
 ---
 date: '2020-04-21'
 title: 'Spotify Clone'
-github: 'https://github.com/7benson/Spotify-Clone'
+github: 'https://github.com/jayanth-kumar-morem/Spotify-Clone'
 external: 'https://spotify-by-jayanth.web.app/'
 tech:
   - Spotify API

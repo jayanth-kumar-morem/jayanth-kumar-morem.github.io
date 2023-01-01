@@ -4,24 +4,24 @@ module.exports = {
     'Jayanth Kumar is a Software Engineer Intern and a Student at Indian Institute of Technology Palakkad, who loves buidling worth ideas in Real-Life ',
   siteKeywords:
     'Jayanth Kumar, Jayanth, JKNani, software engineer, MERN Stack, Data Science, web developer, opencv, hyderabad, TVS Motorcorp, Survey Buddy,IITPKD, NLP',
-  siteUrl: 'https://7benson.github.io/',
+  siteUrl: 'https://jayanth-kumar-morem.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-176890289-1',
   googleVerification: '',
   name: 'Jayanth Kumar',
   location: 'Hyderabad, India',
   email: 'jayanthkumar1903@gmail.com',
-  github: 'https://github.com/7benson',
+  github: 'https://github.com/jayanth-kumar-morem',
   twitterHandle: '@asd',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/7benson',
+      url: 'https://github.com/jayanth-kumar-morem',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/jayanth-kumar-14a4811b5/',
-    }
+    },
     // ,
     // {
     //   name: 'Codepen',
@@ -31,10 +31,10 @@ module.exports = {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/mr_jknani/',
     // },
-    // {
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/chandrikadeb7',
-    // },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/Jayanth75099343',
+    },
   ],
 
   navLinks: [

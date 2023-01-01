@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'Intel Image Classification Image Scene Classification of Multiclass'
-github: 'https://github.com/7benson/Intel-Image-Classification-Image-Scene-Classification-of-Multiclass'
+github: 'https://github.com/jayanth-kumar-morem/Intel-Image-Classification-Image-Scene-Classification-of-Multiclass'
 external: ''
 ios: ''
 android: ''

@@ -1,7 +1,7 @@
 ---
 date: '2021-04-01'
 title: "World's Fastest Pose Detection"
-github: 'https://github.com/7benson/pose-detection-movenet-flask-server'
+github: 'https://github.com/jayanth-kumar-morem/pose-detection-movenet-flask-server'
 external: ''
 tech:
   - Python
