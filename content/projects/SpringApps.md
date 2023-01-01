@@ -1,7 +1,7 @@
 ---
 date: '2022-04-21'
 title: 'JAVA Spring Apps'
-github: 'https://github.com/7benson/java-apps'
+github: 'https://github.com/jayanth-kumar-morem/java-apps'
 external: ''
 tech:
   - JAVA

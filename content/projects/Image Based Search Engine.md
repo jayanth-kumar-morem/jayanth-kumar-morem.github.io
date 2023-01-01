@@ -1,7 +1,7 @@
 ---
 date: '2020-07-01'
 title: 'Image Based Search Engine'
-github: 'https://github.com/7benson/Image-Based-Search-Engine'
+github: 'https://github.com/jayanth-kumar-morem/Image-Based-Search-Engine'
 external: ''
 tech:
   - Python

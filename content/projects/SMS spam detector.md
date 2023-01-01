@@ -1,7 +1,7 @@
 ---
 date: '2021-01-01'
 title: 'SMS spam detector'
-github: 'https://github.com/7benson/SMS-Spam-Classifier'
+github: 'https://github.com/jayanth-kumar-morem/SMS-Spam-Classifier'
 external: 'https://spam-sms-detector7.herokuapp.com/'
 tech:
   - Python

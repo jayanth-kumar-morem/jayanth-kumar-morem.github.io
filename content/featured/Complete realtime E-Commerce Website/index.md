@@ -2,7 +2,7 @@
 date: '1'
 title: 'Complete E-Commerce Website'
 cover: './1.PNG'
-github: 'https://github.com/7benson/ecomemerce-build'
+github: 'https://github.com/jayanth-kumar-morem/ecomemerce-build'
 external: 'https://ecommerce-ab1e0.web.app/'
 tech:
   - React JS + Advanced Redux(Redux Saga,Redux Thunk)

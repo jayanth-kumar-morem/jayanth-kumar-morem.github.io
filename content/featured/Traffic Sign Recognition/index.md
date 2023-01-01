@@ -2,7 +2,7 @@
 date: '3'
 title: 'Traffic Sign Recognition'
 cover: './1.png'
-github: 'https://github.com/7benson/GTSRB'
+github: 'https://github.com/jayanth-kumar-morem/GTSRB'
 external: 'https://gtsrb.herokuapp.com/'
 tech:
   - Python

@@ -1,7 +1,7 @@
 ---
 date: '2020-01-01'
 title: 'Heart Disease Predictor'
-github: 'https://github.com/7benson/heart-disease-predictor'
+github: 'https://github.com/jayanth-kumar-morem/heart-disease-predictor'
 external: 'https://heart-disease-predictor-by-ml.herokuapp.com/'
 tech:
   - Python
