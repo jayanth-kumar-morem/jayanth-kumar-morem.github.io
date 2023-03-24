@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Jayanth Kumar | Software Engineer',
   siteDescription:
-    'Jayanth Kumar is a Software Engineer Intern and a Student at Indian Institute of Technology Palakkad, who loves buidling worth ideas in Real-Life ',
+    'Jayanth Kumar is a Software Development Engineer and a Student at Indian Institute of Technology Palakkad, who loves buidling worth ideas in Real-Life ',
   siteKeywords:
     'Jayanth Kumar, Jayanth, JKNani, software engineer, MERN Stack, Data Science, web developer, opencv, hyderabad, TVS Motorcorp, Survey Buddy,IITPKD, NLP',
   siteUrl: 'https://jayanth-kumar-morem.github.io/',
