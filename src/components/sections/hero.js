@@ -89,14 +89,21 @@ const Hero = ({ data }) => {
       {/* {frontmatter.subtitle} */}
       <Typewriter
         skipAddStyles
+        options={{ loop: true }} // Add this line to enable looping
         onInit={(typewriter) => {
-          typewriter.typeString("I'm a Realtime WebApps Developer")
-            .pauseFor(2500)
-            .deleteChars(26)
-            .typeString('Deep Learning Engineer')
-            .deleteChars(22)
-            .typeString('Computer Vision enthusiast')
-            .start()
+          typewriter.typeString("Full Stack | DevOps | AI")
+          .pauseFor(2500)
+          .deleteChars(24)
+          .typeString('End-to-End Solutions')
+          .pauseFor(500)
+          .deleteChars(20)
+          .typeString('Automating Workflows')
+          .pauseFor(500)
+          .deleteChars(20)
+          .typeString('Unleashing AI Potential')
+          .pauseFor(500)
+          .deleteChars(23)
+          .start()
         }}
       />
       </StyledSubtitle>

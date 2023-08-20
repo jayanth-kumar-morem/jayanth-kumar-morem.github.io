@@ -1,9 +1,10 @@
 ---
-title: 'Hello World! My name is'
+title: "Greetings! I'm"
 name: 'Jayanth Kumar'
-subtitle: 'I love exploring new things!'
-buttonText: 'Hire Me!'
+subtitle: 'Passionate about crafting innovative solutions!'
+buttonText: "Let's Collaborate!"
 ---
 
-I'm a computer science pupil that specialize in constructing exquisite Artificial Intelligence models and Full-stack Real-time Web Apps.
-Currently I'm centered on constructing Realtime End-to-End Computer Vision Projects. You can look through all of my works at my [Github](https://github.com/jayanth-kumar-morem)!
+I'm an aspiring computer scientist with a passion for shaping cutting-edge solutions across Full Stack, DevOps, and AI domains. From building refined Artificial Intelligence models to developing immersive Full-stack Real-time Web Apps, I thrive on innovation.
+
+You can explore a showcase of my projects on [Github](https://github.com/jayanth-kumar-morem)!

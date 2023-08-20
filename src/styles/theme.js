@@ -3,9 +3,6 @@ import { hex2rgba } from '@utils';
 const ACCENT = '#64ffda';
 const DARK_BG = '#020c1b';
 const BG = '#0a192f';
-// const ACCENT = '#ff7066';
-// const DARK_BG = '#AE0E36FF';
-// const BG = '#A59C94FF';
 
 const theme = {
   colors: {

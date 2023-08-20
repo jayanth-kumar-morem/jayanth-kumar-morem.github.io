@@ -33,7 +33,7 @@ module.exports = {
     // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Jayanth75099343',
+      url: 'https://twitter.com/jayanthkumar777',
     },
   ],
 
@@ -67,10 +67,16 @@ module.exports = {
   //   navy: '#0a192f',
   //   darkNavy: '#020c1b',
   // },
+  // colors: {
+  //   green: '#F9A12EFF',
+  //   navy: '#FC766AFF',
+  //   darkNavy: '#9B4A97FF',
+  // },
+
   colors: {
-    green: '#F9A12EFF',
-    navy: '#FC766AFF',
-    darkNavy: '#9B4A97FF',
+    green: '#FF5733',
+    navy: '#2F2FA2',
+    darkNavy: '#E9B741',
   },
 
   srConfig: (delay = 200) => ({

@@ -5,17 +5,14 @@ skills:
   - MERN
   - Django & Flask
   - Spring Boot + Thymleaf
-  - AWS & Amazon S3
+  - Everything in AWS
   - Firebase
-  - Tensorflow, Keras, nltk & PyTorch
-  - OpenCV
+  - Tensorflow, PyTorch, Keras, nltk & OpenCV
+  
 ---
 
-Hi! My name is Jayanth Kumar and I enjoy creating realtime projects that serve people and live on the internet.
-I am looking forward to work more on the Industrial side to gain skills and understand what the World expects from Developers .
+Hi there! I'm Jayanth Kumar, and I thrive on crafting real-time projects that not only exist on the internet but also serve the needs of people. I am particularly excited about delving deeper into the industrial sector to acquire valuable skills and gain insights into the evolving expectations from developers in the real world.
 
-Fast-forward to today, and I've had the privilege of working at
-3 huge corporations [Texas Instruments]("https://www.ti.com/"), [Arista Networks]("https://www.arista.com/en/") and [TVS Motor Corp]("https://www.tvsmotor.com/") and
-at a start-up [Survey Buddy]("https://www.surveybuddy.in/"). My predominant consciousness nowadays is solving real-life software engineering  problem statements for the betterment of every day closer to the future.
+Fast-forwarding to the present day, I have been fortunate to contribute my expertise to three major corporations - [Texas Instruments](https://ti.com/), [Arista Networks](https://www.arista.com/en/), [TVS Motor Corp](https://www.tvsmotor.com/) - and an innovative startup called [Survey Buddy](https://www.surveybuddy.net/). My current focus revolves around tackling real-world software engineering challenges that contribute to shaping a better future every single day.
 
-A few Tech Stacks i love working with,
+A few Tech Stacks I love working with,

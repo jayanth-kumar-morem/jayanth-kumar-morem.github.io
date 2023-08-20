@@ -156,31 +156,37 @@ const Skills = () => {
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
   const skills = [
     {
-      name:"web Development",
-      percentage:"95",
-      data:"Skills : MERN Stack, Spring Boot, Thymeleaf, SQL, Django, SCSS, Flask, Bootstrap, Semantic UI, Material UI, UI Design, Sockets, AWS, FIrebase, Firestore, Amazon S3, Heroku and eager to learn more.",
-    },{
-      name:"Deep Learning with Image Processing",
-      percentage:"93",
-      data:"Proficent in mathematical context of operating of neural networks, optimizers and vadilation techniques as nicely as, can take leverage of python libraries along with Tensorflow and Keras to train and evaluate ANN, CNN, RNN and LTSM models",
-    },{
-      name:"Natural Language Processing",
-      percentage:"95",
-      data:"Can carry out textscraping , cleaning , pre-processing and train and examine machine learning models with the first-class performance",
-    },{
-      name:"Computer Vision",
-      percentage:"92",
-      data:"Can carry out image and video pre-processing, Object recognition, Object Tracking, Deeplearning and put into effect classfication and realtime object tracking systems using open-cv",
-    },{
-      name:"Blockchain Development",
-      percentage:"92",
-      data:"Committed to developing practical blockchain applications based on Solidity, Web3js, Ganache and Truffle Suite",
-    },{
-      name:"Data Science",
-      percentage:"92",
-      data:"Can take care of imbalanced, grimy datasets and can carry out feature engineering, feature scaling, Model Training, Hyper Parameter Tuning and Cross Validations. Familiar with Dockers and Kubernetes which assist to set up version at scale",
-    }
-  ]
+      name: "Web Development",
+      percentage: "95",
+      data: "Proficient in creating dynamic web applications using technologies like MERN Stack, Spring Boot, Thymeleaf, Django, Flask, and more. Skilled in UI design and experienced with SCSS, Bootstrap, Semantic UI, Material UI, and implementing real-time functionality with Sockets. Well-versed in deploying on AWS, Firebase, Heroku, and managing data with SQL.",
+    },
+    {
+      name: "Deep Learning with Image Processing",
+      percentage: "93",
+      data: "Adept in the mathematical foundations of neural networks, including optimizers and validation techniques. Experienced in implementing neural network architectures such as ANN, CNN, RNN, and LSTM using Python libraries like TensorFlow and Keras. Proficient in training and evaluating models for image analysis tasks.",
+    },
+    {
+      name: "Natural Language Processing",
+      percentage: "95",
+      data: "Skilled in text scraping, cleaning, and preprocessing. Proficient in training and evaluating machine learning models for various natural language processing tasks. Well-versed in utilizing Python libraries to achieve state-of-the-art performance.",
+    },
+    {
+      name: "Computer Vision",
+      percentage: "92",
+      data: "Experienced in image and video preprocessing, object recognition, and object tracking. Proficient in utilizing OpenCV for implementing classification and real-time object tracking systems. Capable of working on complex computer vision projects.",
+    },
+    {
+      name: "Blockchain Development",
+      percentage: "92",
+      data: "Dedicated to creating practical blockchain applications using technologies like Solidity, Web3js, Ganache, and the Truffle Suite. Enthusiastic about leveraging blockchain for secure and decentralized solutions.",
+    },
+    {
+      name: "Data Science",
+      percentage: "92",
+      data: "Skilled in handling imbalanced and dirty datasets. Proficient in feature engineering, feature scaling, model training, hyperparameter tuning, and cross-validation. Familiar with Docker and Kubernetes for scalable deployment of models.",
+    },
+  ];
+
 
   return (
     <StyledContainer id="skills" ref={revealContainer}>
@@ -194,8 +200,8 @@ const Skills = () => {
           </StyledContent>
         )
       })}
-      
-      
+
+
       </StyledFlexContainer>
     </StyledContainer>
   );
